@@ -1,0 +1,6 @@
+Mozilla Public License 2.0
+
+Base Code: Copyright (c) 2026, Fang Raymond
+
+For more information see:
+https://opensource.org/licenses/MPL-2.0
