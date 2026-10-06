@@ -41,6 +41,7 @@ The output points will be depicted on the en faces.
  <img width="468" height="244" alt="image" src="https://github.com/user-attachments/assets/c8d3a9a3-dd2d-40cb-b961-3f4e3f2ddd93" />
 
 If the user dislikes the generation of matching points, they can run automatedmatching_quadrants_custompoints.m. See comments within these files for more details.
+
 8.	Finally, we can run the function to volumetrically montage the volumes. F is a 3D matrix containing the information on the montaged volume. 
 
 <img width="400" height="46" alt="image" src="https://github.com/user-attachments/assets/418fa624-ca1a-43b2-8685-97d8301a9167" />
